@@ -1,1 +1,1 @@
-SEED/test.sql SEED/verify.sql SQL/test2.sql SQL/verify2.sql /scripts/test1.ksh QC1234_QC_COMPLETED_changed_file.txt
+SEED/test.sql SEED/verify.sql SQL/test2.sql SQL/verify2.sql scripts/test1.ksh QC1234_QC_COMPLETED_changed_file.txt
