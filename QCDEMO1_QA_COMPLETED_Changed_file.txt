@@ -1,1 +1,1 @@
-scripts/test2.sql SEED/test.sql QCDEMO1_QA_COMPLETED_Changed_file.txt
+SQL/test2.sql SEED/test.sql QCDEMO1_QA_COMPLETED_Changed_file.txt
