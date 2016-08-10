@@ -1,1 +1,0 @@
-SEED/demo1.sql SQL/demo2.sql scripts/demo1.ksh QCDEMO_QA_COMPLETED_changed_file.txt
