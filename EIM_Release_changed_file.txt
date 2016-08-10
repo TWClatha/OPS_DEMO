@@ -1,1 +1,1 @@
-SEED/test.sql EIM_Release_changed_file.txt
+SEED/test.sql EIM_Reelase_changed_file.txt EIM_Release_changed_file.txt
