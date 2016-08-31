@@ -1,1 +1,1 @@
-To verify
+To verify and checkout the changes back to the GIT Repo
